@@ -51,7 +51,7 @@
             var level = cols[2];
             var hitPoints = cols[3];
             var equipment = cols[4];
-            //var items = equipment.Split("|");
+           
 
             Console.WriteLine($"Name: {name}");
             Console.WriteLine($"Job: {profession}");
